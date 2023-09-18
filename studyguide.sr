@@ -1,0 +1,27 @@
+# Java Arrays
+- [[An **array** is a collection of variables of the same type]], referred to
+  by a common name.
+- In Java, arrays are objects, and must be created dynamically (at runtime).
+
+## Declaring an Array
+- [[General Form: type[] arrayName;]] 
+- ex: int[] myData; 
+
+- The above [[only creates a reference]] to an array object, but [[no array has
+ actually been created yet]]. 
+
+
+## Creating an Array (Instantiation)
+- ex: myData = new int[100];
+
+- Data types of the reference and array need to match.
+- [[numberOfElements must be a positive Integer.]]
+- [[Gotcha: Array size is not
+ modifiable once instantiated.]]
+
+##### Hello 
+
+[[Which continent is known as the "Roof of the World"?
+Istanbul, Turkey. It is located on both Europe and Asia.]]
+The longest river is the Volga River.]]
+The official language is Japanese.]]
